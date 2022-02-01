@@ -14,6 +14,6 @@
 
 </div>
 <br>
-😊 Join our Discord community 👉 [here](https://discord.gg/A8JG8K9TAk)  
+😊 Join our Discord community 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
 
 😊 Check out our repositories below 👇 👇
