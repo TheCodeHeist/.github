@@ -6,12 +6,11 @@
 </p>
 
 <div align=center>
-    
-<p>A place for programmers to work together on open source projects and learn from one another while working in a group. </p>
-<br>
-
-<p> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
-
+    <p>A place for programmers to work together on open source projects and learn from one another while working in a group. </p>
+    <br />
+    <p>This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems!</p>
+    <br />
+    <h3><b>Newcomer?</b> <a href="https://github.com/HeroProgrammers/Welcome" target="_blank">Visit to get started!</a></h3>
 </div>
 <br>
 😊 Join our Discord community 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
